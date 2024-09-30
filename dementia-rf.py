@@ -11,6 +11,7 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 from sklearn.model_selection import train_test_split, cross_val_score, KFold
 from sklearn.decomposition import PCA
 from imblearn.over_sampling import SMOTE
+import matplotlib.pyplot as plt
 from sklearn.metrics import ConfusionMatrixDisplay
 
 # Set random seeds for reproducibility
