@@ -8,15 +8,18 @@ The dementia_dataset.csv file contains the dementia dataset used in the predicti
 
 These files can be run in Colab/Jupyter notebook.
 
-The dementia-rf.py file contains the code for the Random Forest Classifier.
+The dementia folder contains three python files.
 
-The dementia-dt.py file contains the code for the Decision Tree Classifier.
+The decisiontree.py file contains the code for the Decision Tree Classifier.
 
-The dementia-xg.py file contains the code for the XGBoost Classifier.
+The randomforest.py file contains the code for the Random Forest Classifier.
 
+The xgboost.py file contains the code for the XGBoost Classifier.
 
-The shapdementia-rf.py file contains the code for the shap plots and visualization for Random Forest Classifier.
+The shapdementia folder contains three python files.
 
-The shapdementia-dt.py file contains the code for the shap plots and visualization for Decision Tree Classifier.
+The shapdt.py file contains the code for the shap plots and visualization for Decision Tree Classifier.
 
-The shapdementia-xg.py file contains the code for the shap plots and visualization for XGBoost Classifier.
+The shaprf.py file contains the code for the shap plots and visualization for Random Forest Classifier.
+
+The shapxg.py file contains the code for the shap plots and visualization for XGBoost Classifier.
