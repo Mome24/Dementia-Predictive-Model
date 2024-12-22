@@ -1,5 +1,5 @@
 # Dementia-Predictive-Model
-Feature Importance based Dementia Predictive Model.
+Feature Importance based Dementia Predictive Model - Developed by Ankita Das
 
 This repository contains all codes related to a predictive dementia model using machine learning classifiers such as Random Forest, Decision Tree and XGBoost.
 Important features of dementia detetction are analyzed using SHAP.
